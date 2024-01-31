@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ISPRGG2_Finals_Dy_Lim_Esguerra.props" />
+</Project>

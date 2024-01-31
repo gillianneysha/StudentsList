@@ -1,0 +1,54 @@
+﻿@model StudentModelRegister
+
+<h3>Register</h3>
+<br />
+@if (TempData["AlertMessageS"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success! </strong>  @TempData["AlertMessageS"]
+    </div>
+    
+}
+@if (TempData["AlertMessageF"] != null)
+{
+         @if (TempData["AlertMessageS"] == null)
+    {
+        <div class="alert alert-danger">
+            <strong>Failed! </strong>  @TempData["AlertMessageF"]
+        </div>
+    }
+
+}
+
+
+<div class="row">
+    <div class="col-6">
+        <form asp-controller="Students" asp-action="Register" method="post">
+
+            Username
+            <input type="text" id="Username" name="Username" value="" class="form-control" />
+            <span class="text-danger" asp-validation-for="Username"> </span>
+            <br />
+
+            Password
+            <input type="password" id="Password" name="Password" value="" class="form-control" />
+            <span class="text-danger" asp-validation-for="Password"> </span>
+            <br />
+
+            Confirm Password
+            <input type="password" id="ConfirmPassword" name="ConfirmPassword" value="" class="form-control" />
+            <span class="text-danger" asp-validation-for="ConfirmPassword"> </span>
+            <br />
+
+            <a asp-controller="Students" asp-action="Index" class="btn btn-secondary">
+                Back
+            </a>
+
+
+            <button type="submit" class="btn btn-primary">
+                Register
+            </button>
+
+        </form>
+    </div>
+</div>

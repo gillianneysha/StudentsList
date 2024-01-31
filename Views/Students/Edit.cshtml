@@ -1,0 +1,28 @@
+﻿@model StudentModelRecords
+
+<h3>Edit Student</h3>
+<hr />
+
+<form asp-controller="Students" asp-action="Edit" method="post">
+
+    <input asp-for="StudentID" readonly class="form-control" />
+
+    First Name
+    <input asp-for="Firstname" class="form-control" />
+    <span asp-validation-for="Firstname" class="text-danger"></span>
+    <br />
+
+    Last Name
+    <input asp-for="Lastname" class="form-control" />
+    <span asp-validation-for="Lastname" class="text-danger"></span>
+    <br />
+
+    <a asp-controller="Students" asp-action="StudentIndex" class="btn btn-secondary">
+        Back
+    </a>
+
+    <button type="submit" class="btn btn-primary">
+        Save
+    </button>
+
+</form>

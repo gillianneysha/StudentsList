@@ -1,0 +1,330 @@
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.staticwebassets.runtime.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.exe
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.deps.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.runtimeconfig.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.AssemblyReference.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfoInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfo.cs
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cs
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.ISPRGG2_Finals_Dy_Lim_Esguerra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.build.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\bundle\ISPRGG2_Finals_Dy_Lim_Esguerra.styles.css
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\projectbundle\ISPRGG2_Finals_Dy_Lim_Esguerra.bundle.scp.css
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CopyComplete
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\refint\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.genruntimeconfig.cache
+C:\Users\GYL\Desktop\CSB\IPRGG1\Visual Studio\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ref\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.staticwebassets.runtime.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.exe
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.deps.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.runtimeconfig.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.AssemblyReference.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfoInputs.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfo.cs
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cs
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.ISPRGG2_Finals_Dy_Lim_Esguerra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.build.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\bundle\ISPRGG2_Finals_Dy_Lim_Esguerra.styles.css
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\projectbundle\ISPRGG2_Finals_Dy_Lim_Esguerra.bundle.scp.css
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CopyComplete
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\refint\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.genruntimeconfig.cache
+C:\Users\Joseph Dy II\OneDrive\Desktop\School\2ND SEM 1ST YEAR\ISPRGG FXTIS2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ref\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.staticwebassets.runtime.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.exe
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.deps.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.runtimeconfig.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfo.cs
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cs
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.ISPRGG2_Finals_Dy_Lim_Esguerra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.build.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\bundle\ISPRGG2_Finals_Dy_Lim_Esguerra.styles.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\projectbundle\ISPRGG2_Finals_Dy_Lim_Esguerra.bundle.scp.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CopyComplete
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\refint\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.genruntimeconfig.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_Esguerra-2\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ref\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.staticwebassets.runtime.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.exe
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.deps.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.runtimeconfig.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.AssemblyReference.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfoInputs.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfo.cs
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CoreCompileInputs.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cs
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.ISPRGG2_Finals_Dy_Lim_Esguerra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.build.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\bundle\ISPRGG2_Finals_Dy_Lim_Esguerra.styles.css
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\projectbundle\ISPRGG2_Finals_Dy_Lim_Esguerra.bundle.scp.css
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CopyComplete
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\refint\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.genruntimeconfig.cache
+C:\Users\casey\OneDrive\Desktop\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ref\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\appsettings.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.staticwebassets.runtime.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.exe
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.deps.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.runtimeconfig.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.AssemblyReference.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfoInputs.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.AssemblyInfo.cs
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CoreCompileInputs.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.RazorAssemblyInfo.cs
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.ISPRGG2_Finals_Dy_Lim_Esguerra.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.build.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ISPRGG2_Finals_Dy_Lim_Esguerra.props
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\bundle\ISPRGG2_Finals_Dy_Lim_Esguerra.styles.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\scopedcss\projectbundle\ISPRGG2_Finals_Dy_Lim_Esguerra.bundle.scp.css
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.csproj.CopyComplete
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\refint\ISPRGG2_Finals_Dy_Lim_Esguerra.dll
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.pdb
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ISPRGG2_Finals_Dy_Lim_Esguerra.genruntimeconfig.cache
+C:\Users\GYL\Downloads\ISPRGG2_Finals_Dy_Lim_EsguerraLATEST4_13\ISPRGG2_Finals_Dy_Lim_Esguerra\obj\Debug\net7.0\ref\ISPRGG2_Finals_Dy_Lim_Esguerra.dll

@@ -1,0 +1,49 @@
+﻿@model StudentModelLogin
+
+<h3>Log In</h3>
+<br/>
+@if(TempData["AlertMessage"]!=null)
+{
+    <div class="alert alert-danger">
+        <strong>Failed! </strong>  @TempData["AlertMessage"]
+    </div>
+}
+
+
+<div class="row">
+    <div class="container">
+        <form asp-controller="Students" asp-action="Login" method="post">
+
+            Username
+            <input type="text" id="Username" name="Username" value="" class="form-control" />
+            <span class="text-danger" asp-validation-for="Username"> </span>
+            <br />
+
+            Password
+            <input type="password" id="Password" name="Password" value="" class="form-control" />
+            <span class="text-danger" asp-validation-for="Password"> </span>
+            <br />
+
+            <button type="submit" class="btn btn-primary">
+                Log In
+            </button>
+            <br />
+            <br />
+
+            <a asp-controller="Students" asp-action="RegisterPage" class="btn btn-secondary">
+                Register
+            </a>
+
+            <a asp-controller="Students" asp-action="ChangePass" class="btn btn-secondary">
+                Change Password
+            </a>
+
+
+            @*<button type="submit" class="btn btn-primary">
+                Log In
+            </button>
+            *@
+
+        </form>
+    </div>
+</div>

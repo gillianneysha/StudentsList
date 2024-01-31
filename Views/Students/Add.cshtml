@@ -1,0 +1,23 @@
+﻿@model StudentModelRecords
+
+<h3>Add Student</h3>
+<form asp-controller="Students" asp-action="Add" method="post">
+
+    First Name
+    <input type="text" id="Firstname" name="Firstname" value="" class="form-control" />
+    <span asp-validation-for="Firstname" class="text-danger"></span>
+    <br />
+    
+    Last Name
+    <input type="text" id="Lastname" name="Lastname" value="" class="form-control" />
+    <span asp-validation-for="Lastname" class="text-danger"></span>
+    <br />
+
+    <a asp-controller="Students" asp-action="StudentIndex" class="btn btn-secondary">
+        Back
+    </a>
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+
+</form>
